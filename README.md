@@ -22,35 +22,38 @@
 
 ### **Session Description**
 
-Building generative AI apps starts with model selection—but earning user trust requires continuous evaluation. In this talk, learn how Azure AI Evaluations SDK helps assess models pre- and post-production, analyze results, and improve quality through Observability.
-
+Building agentic AI apps starts with model selection - but delivering trusted AI experiencecs requires continuous monitoring and evaluation. In this talk, learn how the Microsoft Foundry Observability features help you **evaluate and optimize your AI solutions** for quality, risk & safety, and agentic performance - from planning to prototyping and post-production.
 
 
 ### **Learning Outcomes**
 
 By the end of this session, learners will be able to:
 
-1. Understand the E2E Observability support in Microsoft Foundry
-1. Explore and use built-in evaluators for quality & safety
-1. Explore and use built-in evaluators for agentic AI
-1. Create and run evaluations on their own models and agents
-1. View and analyze evaluation results in Microsoft Foundry 
-
+1. Explain what the Foundry Control Plane is, and the role Observability plays.
+1. Use the Evaluate-Monitor-Optimize workflow to deliver reliable, trustworthy AI.
+1. Use the Microsoft Foundry agent playground - to build agents reliable, early in workflow.
+1. Use the Microsoft Foundry SDK - to debug & optimize agents quickly, code-first.
+1. Use the Microsoft Foundry Portal - to view observability outcomes & manage agent fleets.
+1. Understand built-in and custom evaluator options - and use them to detect issues early.
+1. Understand tracing & monitoring capabilities - and use them for diagnosis & analyze issues.
 
 ### **Technologies Used**
 
-1. GitHub Codespaces
-1. Visual Studio Code
-1. Azure AI Evaluations (Python SDK)
-1. Microsoft Foundry (Portal & SDK)
+1. GitHub Codespaces (Development Environment)
+1. GitHub Copilot (AI coding assistant)
+1. Microsoft Foundry Toolkit (VS Code Extension)
+1. Microsoft Foundry SDKs (Python)
+1. Microsoft Foundry UI (Portal)
 
 ### **Session Resources**
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
 | **Documentation** | [Observability in generative AI](https://aka.ms/models-for-beginners/observability/docs) | Microsoft Foundry documentation for all observability-related tools and features including evaluations, red teaming, tracing, and continuous monitoring. |
- **Samples** | [Azure AI Evaluation Samples](https://aka.ms/models-for-beginners/observability/samples)| Azure AI Evaluation SDK samples (Python) showcasing common scenarios for observability in Microsoft Foundry.| 
-| **Breakout** | [AI and Agent Observability in Microsoft Foundry and Azure Monitor](https://build.microsoft.com/en-US/sessions/BRK168?source=sessions) | Learn how evaluation and continuous monitoring can help you iterate quickly and move from pilot to production faster in this hour-long breakout from Microsoft Build 2025 (which inspired this talk) |
-| **Skilling**| [Models For Beginners](https://aka.ms/models-for-beginners) | Collection with links to an evolving set of resources from a new open-source curriculum focused on model development - with a focused track on observability|
+| **Foundry SDKs** | [Microsoft Foundry SDKs and Endpoints](https://learn.microsoft.com/en-us/azure/foundry/how-to/develop/sdk-overview?pivots=programming-language-python) | Foundry-specific capabilities with OpenAI-compatible interfaces and access to Foundry direct models with Responses API - build apps with agents, evaluations, or Foundry-specific features|
+ **Foundry Samples** | [Azure AI Projects - Evaluation Samples](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/ai/azure-ai-projects/samples/evaluations)| Comprehensive samples demonstrating how to use Azure AI Foundry's evaluation capabilities with the azure-ai-projects SDK (Python) for Microsoft Foundry.| 
+ | **Foundry Evaluation Tutorial**| [Evaluate Your AI Agents](https://learn.microsoft.com/en-us/azure/foundry/observability/how-to/evaluate-agent) | Learn how to run an agent-targeted evaluation against a Foundry agent using built-in evaluators for quality, safety, and agent behavior - code-first |
+ | **Model Mondays Spotlight Demo** | [Model Mondays: Microsoft Foundry Observability](https://youtu.be/HGsc6-7Wj_8?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&t=2389) | What's New In Microsoft Foundry Observability? Sebastian Kohlmeier (Core AI PM, Lead) gives us an overview and hands-on demo of the end-to-end workflow and features. |
+| **GA Blog Post** | [Generally Available: Evaluations, Monitoring, and Tracing in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/generally-available-evaluations-monitoring-and-tracing-in-microsoft-foundry/4502760) | Evaluations, Monitoring, and Tracing in Microsoft Foundry are now generally available through Foundry Control Plane. These aren't standalone tools bolted onto the side of the platform - they're deeply integrated with Azure Monitor, which means AI agent observability now lives in the same operational plane as the rest of your infrastructure. |
 | | | |
 
 
