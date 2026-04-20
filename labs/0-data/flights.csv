@@ -1,0 +1,21 @@
+flight_id,airline,origin,destination,departure_date,departure_time,arrival_time,price_usd,cabin_class,available_seats
+CT-FL-001,Contoso Airways,Seattle,Paris,2025-08-15,08:30,04:30+1,750.00,Economy,42
+CT-FL-002,Contoso Airways,Seattle,Paris,2025-08-15,14:00,10:00+1,1450.00,Business,12
+CT-FL-003,Contoso Airways,Paris,Seattle,2025-08-22,11:00,14:00,780.00,Economy,38
+CT-FL-004,Contoso Airways,Paris,Seattle,2025-08-22,18:00,21:00,1520.00,Business,8
+CT-FL-005,Atlantic Jet,New York,London,2025-09-01,19:00,07:00+1,620.00,Economy,55
+CT-FL-006,Atlantic Jet,New York,London,2025-09-01,22:00,10:00+1,2100.00,First,4
+CT-FL-007,Atlantic Jet,London,New York,2025-09-10,09:00,12:00,650.00,Economy,48
+CT-FL-008,Atlantic Jet,London,New York,2025-09-10,15:00,18:00,1380.00,Business,10
+CT-FL-009,Pacific Wings,San Francisco,Tokyo,2025-10-05,13:00,17:00+1,890.00,Economy,60
+CT-FL-010,Pacific Wings,San Francisco,Tokyo,2025-10-05,23:00,05:00+2,2450.00,Business,6
+CT-FL-011,Pacific Wings,Tokyo,San Francisco,2025-10-15,10:00,06:00,920.00,Economy,52
+CT-FL-012,Pacific Wings,Tokyo,San Francisco,2025-10-15,22:00,18:00,2500.00,First,3
+CT-FL-013,EuroStar Air,Chicago,Rome,2025-11-01,16:00,08:00+1,710.00,Economy,45
+CT-FL-014,EuroStar Air,Chicago,Rome,2025-11-01,20:00,12:00+1,1680.00,Business,9
+CT-FL-015,EuroStar Air,Rome,Chicago,2025-11-10,07:00,12:00,740.00,Economy,40
+CT-FL-016,EuroStar Air,Rome,Chicago,2025-11-10,14:00,19:00,1700.00,Business,7
+CT-FL-017,SunBird Airlines,Denver,Cancún,2025-12-20,06:00,11:30,480.00,Economy,70
+CT-FL-018,SunBird Airlines,Denver,Cancún,2025-12-20,10:00,15:30,950.00,Business,15
+CT-FL-019,SunBird Airlines,Cancún,Denver,2025-12-28,14:00,18:30,510.00,Economy,65
+CT-FL-020,SunBird Airlines,Cancún,Denver,2025-12-28,08:00,12:30,980.00,Business,11

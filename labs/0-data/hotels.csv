@@ -1,0 +1,16 @@
+hotel_id,name,city,country,star_rating,price_per_night_usd,amenities,available_rooms,check_in_date,check_out_date
+CT-HT-001,Le Marais Grand Hotel,Paris,France,5,320.00,"WiFi,Pool,Spa,Restaurant,Gym",8,2025-08-15,2025-08-30
+CT-HT-002,Montmartre Budget Inn,Paris,France,3,95.00,"WiFi,Breakfast",22,2025-08-15,2025-08-30
+CT-HT-003,Seine River Suites,Paris,France,4,210.00,"WiFi,Restaurant,Gym,River View",14,2025-08-15,2025-08-30
+CT-HT-004,The Westminster Palace,London,United Kingdom,5,380.00,"WiFi,Pool,Spa,Restaurant,Concierge",6,2025-09-01,2025-09-15
+CT-HT-005,Camden Town Hostel,London,United Kingdom,2,65.00,"WiFi,Shared Kitchen",30,2025-09-01,2025-09-15
+CT-HT-006,Kensington Gardens Hotel,London,United Kingdom,4,245.00,"WiFi,Restaurant,Gym,Parking",11,2025-09-01,2025-09-15
+CT-HT-007,Shibuya Sky Tower Hotel,Tokyo,Japan,5,290.00,"WiFi,Pool,Spa,Restaurant,Rooftop Bar",10,2025-10-05,2025-10-20
+CT-HT-008,Asakusa Traditional Ryokan,Tokyo,Japan,4,180.00,"WiFi,Hot Spring,Traditional Breakfast,Garden",5,2025-10-05,2025-10-20
+CT-HT-009,Shinjuku Business Hotel,Tokyo,Japan,3,110.00,"WiFi,Breakfast,Laundry",25,2025-10-05,2025-10-20
+CT-HT-010,Roma Colosseum View,Rome,Italy,4,230.00,"WiFi,Restaurant,Rooftop Terrace,Breakfast",12,2025-11-01,2025-11-15
+CT-HT-011,Trastevere Boutique B&B,Rome,Italy,3,125.00,"WiFi,Breakfast,Garden",9,2025-11-01,2025-11-15
+CT-HT-012,Vatican Luxury Residence,Rome,Italy,5,410.00,"WiFi,Pool,Spa,Restaurant,Concierge,Gym",4,2025-11-01,2025-11-15
+CT-HT-013,Cancún Beachfront Resort,Cancún,Mexico,5,350.00,"WiFi,Pool,Beach Access,Spa,All-Inclusive,Kids Club",20,2025-12-20,2026-01-05
+CT-HT-014,Playa Del Sol Hotel,Cancún,Mexico,4,195.00,"WiFi,Pool,Beach Access,Restaurant",16,2025-12-20,2026-01-05
+CT-HT-015,Centro Cancún Budget Stay,Cancún,Mexico,2,72.00,"WiFi,Breakfast,Parking",35,2025-12-20,2026-01-05

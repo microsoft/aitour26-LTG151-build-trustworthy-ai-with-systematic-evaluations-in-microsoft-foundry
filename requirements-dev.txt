@@ -1,19 +1,22 @@
 # ....... Install dependencies for labs
-# -r src/requirements.txt
+
+# Core Azure AI SDK
+azure-ai-projects>=2.0.0
+azure-identity
+python-dotenv
+
+# Observability
+opentelemetry-sdk
+azure-core-tracing-opentelemetry
+azure-monitor-opentelemetry
+
+# Jupyter notebook runtime
+ipykernel
+ipywidgets
+jupyter
+
+# Data
+pandas
 
 # ....... Install dependencies for documentation
 mkdocs-material
-
-## Core libraries
-python-dotenv   # Environment variables
-ipykernel       # Jupyter Notebooks
-
-## Data manipulation and visualization
-matplotlib==3.10.3  # For creating visualizations
-numpy==2.3.1        # For numerical computations
-pandas              # For data manipulation and analysis
-
-## ..... Azure Dependencies
-azure-search-documents==11.5.3  # For Azure AI Search
-azure-identity                  # For Azure authentication
-azure-ai-evaluation==1.12.0     # For model evaluation (pinned to 1.12.0 - stable version from Oct 2, 2025)

@@ -1,0 +1,16 @@
+rental_id,company,city,car_type,price_per_day_usd,available,pickup_date,return_date
+CT-CR-001,Contoso Car Rentals,Paris,Economy,45.00,true,2025-08-15,2025-08-30
+CT-CR-002,Contoso Car Rentals,Paris,SUV,85.00,true,2025-08-15,2025-08-30
+CT-CR-003,EuroDrive,Paris,Luxury,150.00,true,2025-08-15,2025-08-30
+CT-CR-004,Contoso Car Rentals,London,Economy,50.00,true,2025-09-01,2025-09-15
+CT-CR-005,Contoso Car Rentals,London,SUV,95.00,true,2025-09-01,2025-09-15
+CT-CR-006,BritCars,London,Luxury,175.00,false,2025-09-01,2025-09-15
+CT-CR-007,Contoso Car Rentals,Tokyo,Economy,55.00,true,2025-10-05,2025-10-20
+CT-CR-008,NipponRide,Tokyo,Minivan,90.00,true,2025-10-05,2025-10-20
+CT-CR-009,NipponRide,Tokyo,Luxury,200.00,true,2025-10-05,2025-10-20
+CT-CR-010,Contoso Car Rentals,Rome,Economy,40.00,true,2025-11-01,2025-11-15
+CT-CR-011,ItaliaWheels,Rome,SUV,80.00,true,2025-11-01,2025-11-15
+CT-CR-012,ItaliaWheels,Rome,Luxury,160.00,false,2025-11-01,2025-11-15
+CT-CR-013,Contoso Car Rentals,Cancún,Economy,35.00,true,2025-12-20,2026-01-05
+CT-CR-014,SolRentals,Cancún,SUV,70.00,true,2025-12-20,2026-01-05
+CT-CR-015,SolRentals,Cancún,Minivan,65.00,true,2025-12-20,2026-01-05
