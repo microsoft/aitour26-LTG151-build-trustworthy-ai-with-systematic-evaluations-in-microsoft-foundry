@@ -6,6 +6,6 @@ curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
 
 echo "Installing Python dependencies ..."
 pip install --upgrade pip
-pip install -r requirements=dev.txt --quiet
+pip install -r requirements-dev.txt --quiet
 
 echo "Post-create setup complete."
