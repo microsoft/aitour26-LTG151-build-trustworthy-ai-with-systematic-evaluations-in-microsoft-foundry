@@ -7,14 +7,16 @@ This repository contains the materials for a 15-minute theater session on buildi
 
 ## 1. File Summary 🗂️
 
-The links below provide access to the presentation, speaker notes, demo setup instructions - and a walkthrough video with speaker guidance. We recommend setting up the demo **at least 30 minutes ahead of the presentation time** so you can optimize the time to talk through the code & evaluation results.
+The links below provide access to the presentation, speaker notes, demo setup instructions - and a walkthrough video with speaker guidance. We recommend setting up the demo **at least an hour ahead of the presentation time** so you can optimize the time for walking through key features and results.
+
+The video linked below is _not_ a walkthrough of the specific lab in this repo. However, it is a 15-minute demo+overview of the key features and messaging for Microsoft Foundry observability _aligned with the slides in the deck_ that may be useful in helping you prepare your own talk.
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
 | Session Delivery Deck     |  [PPT](https://aka.ms/AAxs6f7) | Powerpoint presentation |
 | Speaker Prep | [Notes](#2-speaker-prep-️) | Suggested flow for talk  |
 | Demo Prep | [Notes](#3-demo-prep-) |  Setup guidance for demo |
-| Walkthrough| Video | Recorded walkthrough of talk |
+| Video Overview 🆕 | [Video](https://youtu.be/HGsc6-7Wj_8?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&t=2425) | Model Mondays: Observability Demo |
 |||
 
 <br/>
