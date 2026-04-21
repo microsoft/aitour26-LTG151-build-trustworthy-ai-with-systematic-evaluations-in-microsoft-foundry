@@ -94,3 +94,27 @@ Your Foundry Project is ready.
 - Click on the Monitor tab => you see performance & configuration
 - Detect with alerts, continuous evals => diagnose with traces, re-evals
 
+
+## Step 3: Move to Codespaces
+
+1. Fork this repo to your personal profile
+1. Launch GitHub Codespaces on that fork, in browser
+1. Wait till the VS Code session loads, terminal is active
+1. Use `az login` to complete auth flow with your Azure account
+1. Run the setup script: `cd labs/0-setup; ./setenv.sh`
+
+This should setup a `.env` file in that folder with all required configs.
+
+## Step 4: Run Notebooks
+
+1. Open the notebook in VS Code - e.g., `1-create-agent.ipynb`
+1. Select Kernel (default) - run the cells step by step except for last cell
+1. Visit Portal - verify that the tasks in notebook were completed
+1. Optionally - run last cell to clean up.
+
+The notebooks are sandboxes to show
+- Creation of a basic prompt agent from code
+- Creation of agent with tools from code
+- Evaluation flow with 1 quality, safety and agentic evaluator
+
+You can customize the prompts, tools or choices of evaluators to make the demo your own.
